@@ -1,0 +1,15 @@
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\bin\Debug\net8.0\Sistema de Clasificacion de Productos.exe
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\bin\Debug\net8.0\Sistema de Clasificacion de Productos.deps.json
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\bin\Debug\net8.0\Sistema de Clasificacion de Productos.runtimeconfig.json
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\bin\Debug\net8.0\Sistema de Clasificacion de Productos.dll
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\bin\Debug\net8.0\Sistema de Clasificacion de Productos.pdb
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.AssemblyInfoInputs.cache
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.AssemblyInfo.cs
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.sourcelink.json
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.dll
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\refint\Sistema de Clasificacion de Productos.dll
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.pdb
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\Sistema de Clasificacion de Productos.genruntimeconfig.cache
+C:\Users\labc205\Desktop\MyPE Jairo\Sistema de Clasificacion de Productos\Sistema de Clasificacion de Productos\obj\Debug\net8.0\ref\Sistema de Clasificacion de Productos.dll
