@@ -1,0 +1,14 @@
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\bin\Debug\net8.0\TipoDatos.exe
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\bin\Debug\net8.0\TipoDatos.deps.json
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\bin\Debug\net8.0\TipoDatos.runtimeconfig.json
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\bin\Debug\net8.0\TipoDatos.dll
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\bin\Debug\net8.0\TipoDatos.pdb
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\TipoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\TipoDatos.AssemblyInfoInputs.cache
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\TipoDatos.AssemblyInfo.cs
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\TipoDatos.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\TipoDatos.dll
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\refint\TipoDatos.dll
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\TipoDatos.pdb
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\TipoDatos.genruntimeconfig.cache
+C:\Users\labc205\Desktop\MyPE Jairo\TipoDatos\TipoDatos\obj\Debug\net8.0\ref\TipoDatos.dll
