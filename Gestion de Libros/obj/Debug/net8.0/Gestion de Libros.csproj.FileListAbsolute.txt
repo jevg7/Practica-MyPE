@@ -1,0 +1,14 @@
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\Gestion de Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\Gestion de Libros.AssemblyInfoInputs.cache
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\Gestion de Libros.AssemblyInfo.cs
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\Gestion de Libros.csproj.CoreCompileInputs.cache
+C:\Users\labc205\source\repos\Gestion de Libros\bin\Debug\net8.0\Gestion de Libros.exe
+C:\Users\labc205\source\repos\Gestion de Libros\bin\Debug\net8.0\Gestion de Libros.deps.json
+C:\Users\labc205\source\repos\Gestion de Libros\bin\Debug\net8.0\Gestion de Libros.runtimeconfig.json
+C:\Users\labc205\source\repos\Gestion de Libros\bin\Debug\net8.0\Gestion de Libros.dll
+C:\Users\labc205\source\repos\Gestion de Libros\bin\Debug\net8.0\Gestion de Libros.pdb
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\Gestion de Libros.dll
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\refint\Gestion de Libros.dll
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\Gestion de Libros.pdb
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\Gestion de Libros.genruntimeconfig.cache
+C:\Users\labc205\source\repos\Gestion de Libros\obj\Debug\net8.0\ref\Gestion de Libros.dll
