@@ -1,0 +1,4 @@
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.AssemblyInfoInputs.cache
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.AssemblyInfo.cs
+C:\Users\Jairo\Desktop\CRUDS\InventarioTienda\obj\Debug\net8.0\InventarioTienda.csproj.CoreCompileInputs.cache
